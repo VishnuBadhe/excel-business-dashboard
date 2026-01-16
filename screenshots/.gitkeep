@@ -1,0 +1,12 @@
+## 📸 Screenshots
+
+This folder contains visual documentation of the Excel Business Dashboard project to clearly demonstrate the data preparation process and final analytical outputs.
+
+Screenshots included in this folder cover:
+
+- Denormalized sales data structure used for dashboard creation  
+- Individual Excel dashboards focusing on different business perspectives  
+- Supplier-level, order-level, and executive-level sales analysis  
+- Overall dashboard overview for quick business insights  
+
+These screenshots help reviewers understand the dashboard logic, layout, and analytical focus without opening Excel files.
