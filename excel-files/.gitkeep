@@ -1,0 +1,13 @@
+## 📊 Excel Project Files
+
+This folder contains the actual Excel files used to build the dashboards presented in this project.
+
+Files include:
+
+- Complete Excel project file containing:
+  - Denormalized data model
+  - Calculated fields and transformations
+  - Multiple dashboard sheets
+- A standalone executive dashboard file for high-level sales analysis
+
+These Excel files demonstrate practical Excel skills such as data denormalization, KPI calculation, dashboard design, and business insight generation.
